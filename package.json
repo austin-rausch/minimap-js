@@ -1,0 +1,24 @@
+{
+  "name": "webpage-minimap",
+  "version": "1.0.0",
+  "author": "Austin Rausch (ahr5067@psu.edu)",
+  "description": "A preview of a web page, Javascript port of a jQuery plugin",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.22.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-clean-css": "^3.0.3",
+    "gulp-lasso": "0.0.9",
+    "gulp-uglify": "^2.0.1"
+  },
+  "scripts": {
+    "build": "gulp build",
+    "build-test": "gulp buildTestPage"
+  },
+  "keywords": [
+    "navigation",
+    "preview",
+    "minimap",
+    "mini-map"
+  ]
+}

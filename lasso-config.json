@@ -1,0 +1,10 @@
+{
+    "fileWriter": {
+        "outputDir": "./test-out",
+        "fingerprintsEnabled": false,
+        "urlPrefix": "./"
+    },
+    "plugins": [],
+    "resolveCssUrls": true,
+    "bundlingEnabled": true
+}
