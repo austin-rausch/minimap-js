@@ -17,7 +17,7 @@ The original plugin's repository can be found [here](https://github.com/princejw
 
 ### Including it on your page
 
-Include jQuery and this module on a page.
+Include this module on a page.
 
 ```html
 <!-- Alternatively can include non-minified files -->
